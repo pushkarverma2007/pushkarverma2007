@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" fill="none">
+<defs>
+ <linearGradient id="bg" x1="120" y1="40" x2="880" y2="590" gradientUnits="userSpaceOnUse"><stop stop-color="#11112D"/><stop offset=".55" stop-color="#241B52"/><stop offset="1" stop-color="#071B36"/></linearGradient>
+ <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 300 -390 0 500 300)" gradientUnits="userSpaceOnUse"><stop stop-color="#7C3AED" stop-opacity=".55"/><stop offset="1" stop-color="#11112D" stop-opacity="0"/></radialGradient>
+ <linearGradient id="suit" x1="390" y1="190" x2="610" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF"/><stop offset=".45" stop-color="#C7D2FE"/><stop offset="1" stop-color="#6475B9"/></linearGradient>
+ <linearGradient id="visor" x1="420" y1="170" x2="585" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset=".45" stop-color="#6366F1"/><stop offset="1" stop-color="#312E81"/></linearGradient>
+ <linearGradient id="ring" x1="180" y1="240" x2="830" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F0ABFC"/></linearGradient>
+ <filter id="shadow" x="260" y="80" width="480" height="500" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1000" height="620" rx="34" fill="url(#bg)"/><rect width="1000" height="620" rx="34" fill="url(#glow)"/>
+<g fill="#E0E7FF"><circle cx="150" cy="130" r="2.5"/><circle cx="820" cy="110" r="3"/><circle cx="760" cy="490" r="2"/><circle cx="230" cy="470" r="2"/><circle cx="680" cy="80" r="1.8"/><circle cx="350" cy="100" r="1.5"/><circle cx="875" cy="300" r="2.3"/><circle cx="110" cy="330" r="1.8"/></g>
+<circle cx="770" cy="190" r="62" fill="#A78BFA" fill-opacity=".13"/><circle cx="770" cy="190" r="43" fill="#C4B5FD" fill-opacity=".16"/><circle cx="770" cy="190" r="28" fill="#DDD6FE" fill-opacity=".22"/>
+<ellipse cx="500" cy="390" rx="300" ry="83" stroke="url(#ring)" stroke-width="3" opacity=".85" transform="rotate(-12 500 390)"/>
+<ellipse cx="500" cy="390" rx="300" ry="83" stroke="#C4B5FD" stroke-width="1" opacity=".3" transform="rotate(12 500 390)"/>
+<ellipse cx="500" cy="420" rx="150" ry="48" fill="#8B5CF6" fill-opacity=".35" filter="url(#shadow)"/>
+<g transform="rotate(-8 500 320)">
+ <path d="M405 350 350 420Q342 435 355 447L385 468Q398 477 410 463L458 405" fill="url(#suit)" stroke="#A5B4FC" stroke-width="5"/>
+ <path d="m595 350 55 70q9 14-5 27l-29 22q-14 9-25-5l-48-59" fill="url(#suit)" stroke="#A5B4FC" stroke-width="5"/>
+ <rect x="414" y="292" width="172" height="205" rx="75" fill="url(#suit)" stroke="#E0E7FF" stroke-width="7"/>
+ <rect x="435" y="350" width="130" height="93" rx="28" fill="#6475B9" opacity=".85"/>
+ <rect x="463" y="375" width="74" height="42" rx="12" fill="#1E1B4B"/>
+ <circle cx="500" cy="396" r="10" fill="#67E8F9"/><path d="M483 462h34" stroke="#475569" stroke-width="6" stroke-linecap="round"/>
+ <path d="M426 460 410 510q-3 13 11 17l38 9q15 3 19-12l13-42M574 460l16 50q3 13-11 17l-38 9q-15 3-19-12l-13-42" fill="#A5B4FC" stroke="#E0E7FF" stroke-width="6"/>
+ <path d="M430 290q-13-20-8-43l-28-35q-9-13 3-24l23-21q12-10 23 1l23 26M570 290q13-20 8-43l28-35q9-13-3-24l-23-21q-12-10-23 1l-23 26" fill="url(#suit)" stroke="#C7D2FE" stroke-width="6"/>
+ <rect x="390" y="125" width="220" height="205" rx="94" fill="url(#suit)" stroke="#E0E7FF" stroke-width="8"/>
+ <rect x="411" y="150" width="178" height="145" rx="70" fill="url(#visor)" stroke="#A5B4FC" stroke-width="5"/>
+ <path d="M445 185q38-31 77-18" stroke="#E0F2FE" stroke-width="9" stroke-linecap="round" opacity=".65"/>
+ <path d="M432 263q65 24 130-5" stroke="#A5B4FC" stroke-width="3" opacity=".45"/>
+ <circle cx="600" cy="285" r="13" fill="#67E8F9" stroke="#FFF" stroke-width="4"/>
+</g>
+<path d="m260 210 12 24 24 12-24 12-12 24-12-24-24-12 24-12 12-24Z" fill="#67E8F9" opacity=".9"/>
+<path d="m730 390 8 16 16 8-16 8-8 16-8-16-16-8 16-8 8-16Z" fill="#C4B5FD" opacity=".9"/>
+<text x="500" y="570" fill="#E0E7FF" font-family="Arial,sans-serif" font-size="19" letter-spacing="5" text-anchor="middle">CURIOUS MIND · BEGINNER JOURNEY · BIG DREAMS</text>
+</svg>
