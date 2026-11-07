@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Pushkar Verma — CS Core Engineer" />
+<img src="assets/profile-banner.svg" width="100%" alt="Pushkar Verma — CS Core Engineer" />
 
 <br/>
 
