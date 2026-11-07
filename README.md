@@ -1,74 +1,73 @@
-<!-- ✦ PROFILE README · futuristic beginner edition ✦ -->
+<!--
+  PUSHKAR'S PROFILE README
+  Lightweight layout: custom local artwork + reliable Markdown.
+-->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:7C3AED,100:06B6D4&height=220&section=header&text=PUSHKAR%20VERMA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Curious%20mind%20%7C%20Learning%20one%20step%20at%20a%20time&descSize=16&descAlignY=58" width="100%" />
+<img src="https://raw.githubusercontent.com/pushkarverma2007/pushkarverma2007/main/assets/profile-banner.svg" width="100%" alt="Pushkar Verma — Welcome to my universe" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey+there%2C+welcome+to+my+corner+of+GitHub+%E2%9C%A8;A+beginner+with+big+curiosity+%F0%9F%9A%80;Learning.+Building.+Growing.+Repeating." alt="Typing SVG" />
+<br/>
+
+### ✦ Learning in public. Growing one commit at a time. ✦
+
+<a href="https://github.com/pushkarverma2007">
+  <img src="https://img.shields.io/badge/GitHub-pushkarverma2007-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username" />
 </a>
-
-<br/>
-
-<img src="assets/astronaut.svg" width="88%" alt="A custom 3D-inspired astronaut floating through a purple-blue galaxy" />
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=pushkarverma2007&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/pushkarverma2007?style=for-the-badge&logo=github&color=6366F1&labelColor=111827)](https://github.com/pushkarverma2007?tab=followers)
+<img src="https://img.shields.io/badge/STATUS-LEARNING-7C3AED?style=for-the-badge" alt="Learning status" />
+<img src="https://img.shields.io/badge/MINDSET-STAY%20CURIOUS-0891B2?style=for-the-badge" alt="Stay curious" />
 
 </div>
 
 ---
 
-## ✦ A little about me
+## 👋 Hey, I'm Pushkar!
 
-Hey! I'm **Pushkar** 👋
+Welcome to my little corner of GitHub.
 
-I'm at the very beginning of my coding journey. I don't have a long list of skills or projects yet — I'm here to learn, experiment, make mistakes, and improve one day at a time.
+I'm just getting started with programming. I'm not here to pretend I know everything — I'm here to learn the basics, explore technology, make things, and get a little better every day.
 
-- 🌱 **Currently:** Exploring programming fundamentals and learning how GitHub works.
-- 🧭 **My approach:** Stay curious, keep showing up, and learn by building.
-- 🚀 **My goal:** Turn what I learn into useful and creative projects.
-- ✨ **Fun fact:** Every expert was once a beginner.
+- 🌱 **Right now:** Learning how programming and GitHub work.
+- 🧩 **My focus:** Building strong fundamentals, one concept at a time.
+- 🚀 **The goal:** Turn ideas into real projects as I learn.
+- 💜 **The mindset:** Be consistent, stay curious, enjoy the process.
 
-> *"The journey of a thousand miles begins with a single step."*
-
-## 🌌 My learning universe
+## 🌌 My learning roadmap
 
 <div align="center">
 
-| 🚀 Stage | 🌱 Focus |
-|:--|:--|
-| 01 | Understanding programming fundamentals |
-| 02 | Getting comfortable with Git & GitHub |
-| 03 | Practising through small projects |
-| 04 | Discovering the areas of tech I enjoy most |
+| CURRENT QUEST | NEXT UNLOCK |
+|:---|:---|
+| 🌱 Programming basics | 🧠 Problem-solving |
+| 🛠️ Git & GitHub basics | 💻 First small projects |
+| ✨ Exploring technology | 🚀 Building things of my own |
 
 </div>
 
-## 📊 The GitHub corner
+## 🧰 Things I'm exploring
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pushkarverma2007&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=pushkarverma2007&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" />
+
+<img src="https://img.shields.io/badge/Programming-Fundamentals-6D28D9?style=flat-square" alt="Programming fundamentals" />
+<img src="https://img.shields.io/badge/Git-Learning-F97316?style=flat-square&logo=git&logoColor=white" alt="Git learning" />
+<img src="https://img.shields.io/badge/GitHub-Learning-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub learning" />
+<img src="https://img.shields.io/badge/Creative%20Building-In%20Progress-0891B2?style=flat-square" alt="Creative building" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkarverma2007&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=67E8F9&area=true&hide_border=true" width="96%" alt="Contribution activity graph" />
-</div>
+*These are learning areas, not claims of expertise. I'll update this section as I gain experience.*
 
-## 🪐 A note to my future self
+## 🪐 A little reminder
 
 <div align="center">
 
-**One day, this profile will tell the story of everything I have learned.**
+### "Every expert was once a beginner."
 
-For now, I'm happy to start small. 🌱
+I may be at the first page of the journey, but I'm excited to see where it goes.
+
+**Thanks for visiting — see you among the stars.** ✨
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:6D28D9,100:0891B2&height=3&section=footer" width="100%" />
-
-*Thanks for stopping by. Keep exploring, keep creating.* 💜
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:7C3AED,100:0891B2&height=5&section=footer" width="100%" alt="" />
 
 </div>
